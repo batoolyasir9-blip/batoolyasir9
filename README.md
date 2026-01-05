@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### 🤖 AI Student | C++ & Python Developer | Tech Explorer
+### 🤖 AI Student | C++ & Python Learner | Tech Explorer
 
 </div>
 

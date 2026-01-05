@@ -24,7 +24,7 @@
   <a href="https://www.facebook.com/share/1bBN1dpVBN/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/Batool Yasir" target="_blank">
+  <a href="https://www.linkedin.com/accessibility?openinweb=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   
   <a href="mailto:batoolyasir9@gmail.com">
